@@ -13,6 +13,5 @@ You have been provided a [dataset of csv records](../../data/form.csv) that cont
 Use the techniques in this lesson to make recommendations about the form so it captures accurate and consistent information. 
 
 ### Rubric
-
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
