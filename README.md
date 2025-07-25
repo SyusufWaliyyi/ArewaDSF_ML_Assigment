@@ -15,3 +15,5 @@ Use the techniques in this lesson to make recommendations about the form so it c
 Exploring the birds
 ## Assignment 3
 This use the dataset of [student-sleep-monitoring-datasets](https://www.kaggle.com/datasets/valencaycodes/simulated-student-sleep-dataset) to tell a story. The dataset explore the sleeping behaviour of student and wether it has impact on their GPA.
+## Assignment 4
+Using Excel to create Pie Chart, Donut Chart and Waffle Chart
